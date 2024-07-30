@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
-
 I am currently working towards a PhD in computer science at [Brunel University London](https://www.brunel.ac.uk/).
 
 My thesis focuses on how deep learning-based virtual fitting rooms can support online businesses by enabling customers to interact with clothing products. I have been utilising and developing computer vision and generative AI techniques to minimise the gap between virtual interaction with clothing and real-life experiences.
