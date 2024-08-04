@@ -19,7 +19,7 @@ My latest research
 <table style="width:100%">
   <tr>
     <th>
-      <img src="../images/more_examples.jpg" width="350"/>
+      <img src="../images/multi_pose.jpg" width="350"/>
     </th>
     <th style="text-align:left">
             StyleVTON: A multi-pose virtual try-on with identity and clothing detail preservation<br>
@@ -28,4 +28,21 @@ My latest research
             <span style="font-weight:normal;font-size:16px"><a href="https://www.sciencedirect.com/science/article/pii/S0925231224006581">paper</a>|<a href="https://github.com/tasinislam21/multi_pose_vton">code</a></span>
     </th>
   </tr>
+  
+  <br>
+
+  <tr>
+    <th>
+      <img src="../images/vton.jpg" width="350"/>
+    </th>
+    <th style="text-align:left">
+            SVTON: Simplified virtual try-on<br>
+            <span style="font-size:16px">Tasin Islam<span style="font-weight:normal">, Alina Miron, XiaoHui Liu and Yongmin Li</span></span><br>
+            <span style="font-weight:normal;font-size:16px">International Conference on Machine Learning and Applications (ICMLA), 2022</span><br>
+            <span style="font-weight:normal;font-size:16px"><a href="https://ieeexplore.ieee.org/abstract/document/10069596">paper</a>|<a href="https://github.com/tasinislam21/SVTON">code</a></span>
+    </th>
+  </tr>
+
 </table>
+
+
