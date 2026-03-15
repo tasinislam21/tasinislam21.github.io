@@ -38,8 +38,7 @@ My latest work
     </th>
     <th style="text-align:left">
             StyleVTON: A multi-pose virtual try-on with identity and clothing detail preservation<br>
-            <span style="font-size:16px">Tasin Islam<span style="font-weight:normal">, Alina Miron, XiaoHui Liu and Yongmin Li</span></span><br>
-            <span style="font-weight:normal;font-size:16px">Neurocomputing, 2024</span><br>
+            <span style="font-size:16px">Tasin Islam<span style="font-weight:normal"></span></span><br>
             <span style="font-weight:normal;font-size:16px"><a href="https://www.sciencedirect.com/science/article/pii/S0925231224006581">paper</a>|<a href="https://github.com/tasinislam21/multi_pose_vton">code</a></span>
     </th>
   </tr>
